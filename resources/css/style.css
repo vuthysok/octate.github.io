@@ -1,0 +1,47 @@
+
+#wordpattern{
+    font-family: Helvetica;
+    font-size: 100px;
+    font-weight: bold;
+    color: khaki;
+    background-image: url(../images/pattern.jpeg);
+    /* padding-left: 100%; */
+    text-align: center;
+}
+.wordbrushes{
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: mediumspringgreen;
+
+}
+a {
+    font-family: helvetica;
+    font-weight: bold;
+    color: blue;
+}
+
+.framestext{
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: lightcoral;
+    bottom: 10px;
+    position: relative;
+}
+.Painttext{
+    font-family: helvetica;
+    font-size: 32px;
+    font-weight: bold;
+    color: white;
+    background-color: skyblue;
+    bottom: 10px;
+    position: relative;
+
+}
+body {
+    background-image: url(../images/paint-shop-banner-composition-with-brushes-color-chart-paint-containers_162490-10.webp);
+    background-repeat: no-repeat;
+}
